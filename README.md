@@ -7,7 +7,7 @@
 
 如果你有好的想法或问题需要联系我，请发邮件到 [coder-boeving@outlook.com](mailto:coder-boeving@outlook.com)
 
-# 
+
 
 # 我的基本属性
 
@@ -50,7 +50,6 @@
 - shell                                                                       过往在运维工作方面的使用
 - 正在学golang
 
-# 
 
 
 
@@ -84,14 +83,14 @@
   - 框架掌握并使用过的：vue.js,jQury, bootstrap , element ,uni-app
 
     
-
+<br/>
 
 
 - **操作系统**
   - CentOS6/7 在生产环境有5年的使用和维护，有RHCE认证，个人办公电脑有3年Debian系统的使用
   - shell编写自动化运维脚本
 
-
+<br/>
 
 - **运维管理工具**
   - Ansible 及 ansible-api对系统配置管理在项目中的使用
@@ -102,7 +101,7 @@
   - ELK + Filebeat 日志系统的使用和维护
 
 
-
+<br/>
 
 
 - **云原生**
@@ -111,7 +110,7 @@
   - prometheus的使用和维护
 
 
-
+<br/>
 
 
 - **数据库与缓存服务**
@@ -122,7 +121,7 @@
   - rabbitMQ,kafka 的使用和维护
 
 
-
+<br/>
 
 
 - **文件存储**
@@ -131,21 +130,21 @@
 
 
 
-
+<br/>
 
 - **持续集成/自动化构建**
   - jenkins的使用和维护，jenkins-api集成开发到devops系统中
   - manven \ npm \ gradle \  Xcode  
 
 
-
+<br/>
 
 
 - **资源管理/公有云使用**
   - AWS / aliyun / 腾讯云  在过往公司的使用
   - terraform 对资源的管理和集成到运维管理系统中的开发
 
-
+<br/>
 
 - **其他技能**
   - Nginx \tomcat 
