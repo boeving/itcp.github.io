@@ -48,7 +48,7 @@
 - 如果html、css也算编程语言的话就加上           熟练，无障碍做全栈开发
 - SQL                                                                        过往有业务应用及ETL的开发
 - shell                                                                       过往在运维工作方面的使用
-- 正在学golang
+- Rust                                                     基础               有开发过数据处理方面的程序
 
 
 
@@ -116,8 +116,8 @@
 - **数据库与缓存服务**
   - MySQL 数据库的使用和维护，6年
   - Redis 的使用和维护，5年+
-  - MongoDB的使用和维护，3年+
-  - Elasticsearch 的使用和维护，2年+
+  - MongoDB的使用和维护，2年+
+  - Elasticsearch 的使用和维护，3年+
   - rabbitMQ,kafka 的使用和维护
 
 
